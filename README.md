@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Satya-Aditya-k
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding in python
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 I can be reached at adityakanuri1997@gmail.com
 
 <!---
